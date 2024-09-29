@@ -1,2 +1,1 @@
-# WAD_practical
-Practical sessions
+# WebApplicationDevelopement
